@@ -7,6 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class RecursivePowerAQ1Test {
 
+
     @Test
     void recursivePowerTest() {
         assertEquals(4, recursivePower(2,4));

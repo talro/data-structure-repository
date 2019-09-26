@@ -9,6 +9,7 @@ public class RecursiveArray {
     ד. מכפלת הפריטים במערך.
     ה. ממוצע הפריטים במערך.
      */
+
     public static int recursiveMax( int[] intArray) {
         return 1;
     }

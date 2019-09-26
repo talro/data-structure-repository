@@ -7,6 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class RecursiveArrayTest {
 
+
     @Test
     void recursiveMaxTest() {
         int[] intArray1 = new int[10];
