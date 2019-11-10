@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DataStructure.iml" filepath="$PROJECT_DIR$/.idea/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data-structure-repository.iml" filepath="$PROJECT_DIR$/.idea/data-structure-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked-list-java/linked-list-java.iml" filepath="$PROJECT_DIR$/linked-list-java/linked-list-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursive-general/recursive-general.iml" filepath="$PROJECT_DIR$/recursive-general/recursive-general.iml" />
     </modules>
   </component>
