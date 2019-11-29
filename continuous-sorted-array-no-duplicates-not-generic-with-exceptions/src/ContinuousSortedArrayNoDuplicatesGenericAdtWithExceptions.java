@@ -8,11 +8,10 @@
 
 // ADT - The first parameter is the container, static methods on the Class
 // ADO - The methods are on the object
-public class ContinuousSortedArrayNoDuplicatesGenericWithExceptions {
+public class ContinuousSortedArrayNoDuplicatesGenericAdtWithExceptions {
 
     // Constants
     public static int MAX_NUMBER_OF_ITEMS = 10;
-
 
     // Exceptions
     static class MemoryFullException extends Exception {}
